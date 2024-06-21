@@ -17,8 +17,8 @@ ZulBot Multi Device is a whatsapp bot developed by <a href="https://github.com/D
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD11?color=blue&style=flat-square"></a>
+<a href="https://github.com/dioooo-251/followers"><img title="Followers" src="https://img.shields.io/github/followers/dioooo-251?color=red&style=flat-square"></a>
+<a href="https://github.com/dioooo-251/Botjul/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD11?color=blue&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD11/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD11?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD11/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD11?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD11"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
@@ -39,13 +39,6 @@ ZulBot Multi Device is a whatsapp bot developed by <a href="https://github.com/D
 <a href="https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
-
-## ```Donate Me```
-
-- [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
-- [`PayPal`](https://www.paypal.me/josephxeon13)
-- [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
 
 ## `For Termux & Panel User, Download This👇`
 - [`Click Here`](https://shrinkme.pro/y07LYARu)
